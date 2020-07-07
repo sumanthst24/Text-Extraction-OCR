@@ -1,0 +1,16 @@
+Points to Remember
+
+ Lists the indexes are integers whereas in dictionary we can create our indices
+
+ Dictionaries are a mapping data type  indexed by keys
+
+ The index is called key and the element which is indexed with the key is value Therefore it is
+often called as keyvalue pair
+
+ The keys are mapped with the values and the values can be accessed using the keys
+
+ Dictionaries are mutable However a dictionaries keys must be immutable
+
+ Duplicate keys are not allowed but values can be duplicated
+
+ Indexing and Slicing concepts are not applicable we will get an Error
